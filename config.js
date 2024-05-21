@@ -13,14 +13,14 @@ if (!ownervb){
 
 const ownerlist = ownervb.split(';');
 
-global.owner = [];
+global.owner = [923285715826];
 for (let i = 0; i < ownerlist.length; i += 2) {
     const owner = [
         ownerlist[i],            
         ownerlist[i + 1],         
         true                        
     ];
-    global.owner.push(owner);
+    global.owner.push(wahab);
 }
 
 //💌------------------------------------------💌
